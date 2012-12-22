@@ -9,13 +9,13 @@ Ensure that the following have write capabilities:
     /config.php
     /data
     /workspace
-    
+
 Navigate in your browser to the URL where the system is placed and the
 installer screen will appear. If any dependencies have not been met the
 system will alert you.
 
 Enter the requsted information to create a user account, project, and
-set your timezone and submit the form. If everything goes as planned 
+set your timezone and submit the form. If everything goes as planned
 you will be greeted with a login screen.
 
 Happy coding!

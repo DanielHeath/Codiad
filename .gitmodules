@@ -1,0 +1,3 @@
+[submodule "workspace/miniweb"]
+	path = workspace/miniweb
+	url = git://github.com/DanielHeath/miniweb.git
